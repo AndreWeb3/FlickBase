@@ -1,0 +1,8 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndreWeb3/FlickBase.git",
+  "author": "AW3",
+  "license": "MIT"
+}
