@@ -31,7 +31,7 @@ const articleSchema = mongoose.Schema({
         required:true,
         validate:{
             validator: function(array){
-                return array.length >=2
+                return array.length >= 2
             },
             message:"You must add at least three."
         }
